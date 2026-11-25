@@ -1,0 +1,6 @@
+{
+  "name": "ROCNpad",
+  "description": "Next-generation personal notes and knowledge system. Capture anything, connect everything, understand it later.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

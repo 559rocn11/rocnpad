@@ -1,0 +1,4 @@
+name = "rocnpad-worker"
+main = "dist/server.cjs"
+compatibility_date = "2026-09-04"
+compatibility_flags = ["nodejs_compat"]
